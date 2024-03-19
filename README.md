@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm MCSSAM</h1>
+<h1 align="center">Hi, I'm Jihye Kim</h1>
 <h3 align="center">
-  Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
+  Front-End & Back-End 풀스택 주니어 개발자입니다.
 </h3>
 <br /><br />
 <p>
@@ -9,7 +9,7 @@
 또한, 원리위주의 수업을 지향하며 이를 통해 응용력을 배가시키는 전달자입니다. 구글링을 통한 오픈 소스 커뮤니티에서 많은 것을 배웠고 오픈 소스를 통해 어떻게 협업과 지식 공유가 이루어졌는지를 좋아합니다.
 </p>
   
-- 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:indopop@naver.com) :)
+- 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:wlgp115@gmail.com) :)
 - 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을;;
 <br>
 
