@@ -1,61 +1,81 @@
-<h1 align="center">Hi, I'm Jihye Kim</h1>
-<h3 align="center">
-  Front-End & Back-End 풀스택 주니어 개발자입니다.
-</h3>
-<br /><br />
-<p>
-안녕하세요, 저는 직업훈련교사[김명철]입니다. 열정적인 풀 스택 웹 개발자이자 직업훈련교사입니다. 소프트웨어에 대한 나의 열정은 아이디어를 꿈꾸고 우아한 인터페이스로 실현하는 것입니다. 예시를 통한  강의 전달력뿐만 아니라. 수강생들과의 인간적인 교류를 중요시 여기는 직업관을 가지고 있습니다.
-
-또한, 원리위주의 수업을 지향하며 이를 통해 응용력을 배가시키는 전달자입니다. 구글링을 통한 오픈 소스 커뮤니티에서 많은 것을 배웠고 오픈 소스를 통해 어떻게 협업과 지식 공유가 이루어졌는지를 좋아합니다.
-</p>
-  
-- 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:wlgp115@gmail.com) :)
-- 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을;;
-<br>
-
-**My tech stack :**  
-- Backend web development (Java, Servlet/JSP)
-- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle, MySQL
-- Portfolio
-<br>
+📜 김지혜 포트폴리오
+김동우(Dongwoo Kim) - kimphysicsman 포트폴리오
 
 
-**languages and tools :**
-<!-- 뱃지 사용방법 -->
-  <!-- 뱃지 아이콘 사이트 -->
-  <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
-  
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/></p>
-
-<p><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo&logoColor=4479A1"/></p>
-
-<p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br>
-<br>
-
-**Current Lecture :** 
-
-- 2022.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
-<br /><br />
+👋 Intro
+안녕하세요! 주니어 개발자 김지혜입니다!
 
 
-<br />
+📝Projects
+6개월간 진행했던 프로젝트들 입니다!
 
-### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+1. Aesop 가상 페이지 구현
+여행일정 추천 (내일배움캠프 - 4416조 팀프로젝트)
+
+개발기간 : 2022.07.07-09.02
+핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
+Back-end
+
+Language : python3
+Skill : Django, Django-rest-framework, PostgreSQL
+프로젝트 상세 설명(Back-end)
+
+Front-end
+
+Language : javascript
+Skill : React.js
+프로젝트 상세 설명(Front-end)
+
+
+2. Aesop 가상 페이지 구현
+신발 스타일링 (내일배움캠프 - 4520조 팀프로젝트)
+
+개발기간 : 2022.06.28-07.06
+핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
+Language : python3
+Skill : Django, Django-rest-framework
+프로젝트 상세 설명
+
+
+3. Aesop 가상 페이지 구현
+맥주 추천 (내일배움캠프 - 판타스틱4조 팀프로젝트)
+
+개발기간 : 2022.06.02-13
+핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현
+Language : python3, javascript
+Skill : Django, MySQL
+프로젝트 상세 설명
+
+
+4. Aesop 가상 페이지 구현
+닮은 마블 캐릭터 찾기 (내일배움캠프 - 판타스틱4조 팀프로젝트)
+
+개발기간 : 2022.05.18-25
+핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
+Language : python3
+Skill : flask, mongoDB
+프로젝트 상세 설명
+
+
+5. Aesop 가상 페이지 구현
+2d 횡스크롤 격투 게임 (내일배움캠프 - 개인 프로젝트)
+
+개발기간 : 2022.04.25-27
+핵심 역할 : 캐릭터 클래스 구현 및 이벤트 루프 작성
+Language : python3
+프로젝트 상세 설명
+
+
+6. Aesop 가상 페이지 구현
+1980-2010년 뮤직 웹사이트 (메이킹챌린지 - 코딩왕조 팀프로젝트)
+
+개발기간 : 2022.03.02-17
+핵심 역할 : 팀장, 노래 재생 기능, 좋아요 기능
+Language : python3, javascript
+Skill : flask, mongoDB
+프로젝트 상세 설명
+
+📞 Contact
+이메일 : wlgp115@gmail.com
+블로그 : 
+깃허브 : 
