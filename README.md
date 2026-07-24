@@ -114,7 +114,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [[컴퓨터구조 19] 어셈블과 링킹](https://developing-jihye.tistory.com/30) — 2026.07.01
+- [[컴퓨터구조 18] 전처리와 컴파일](https://developing-jihye.tistory.com/29) — 2026.07.01
+- [[컴퓨터구조 17] C 소스 코드는 어떻게 실행 파일이 될까?](https://developing-jihye.tistory.com/28) — 2026.07.01
+- [[컴퓨터구조 16] 스택과 큐](https://developing-jihye.tistory.com/27) — 2026.06.30
+- [[알고리즘 03] 공간복잡도란? 메모리를 얼마나 쓰는지 보는 방법](https://developing-jihye.tistory.com/31) — 2026.06.30<!-- BLOG-POST-LIST:END -->
 
 ---
 
