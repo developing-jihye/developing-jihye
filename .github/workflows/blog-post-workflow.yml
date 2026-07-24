@@ -1,0 +1,23 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with latest Tistory posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "5"
+          feed_list: "https://developing-jihye.tistory.com/rss"
