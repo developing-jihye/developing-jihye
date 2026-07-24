@@ -1,7 +1,8 @@
-name: Latest blog posts
+name: Update blog posts
 
 on:
   schedule:
+    # 매일 자정 UTC, 한국 시간 오전 9시에 실행
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -14,10 +15,24 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
-      - name: Update README with latest Tistory posts
+      - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "5"
           feed_list: "https://developing-jihye.tistory.com/rss"
+
+          # 티스토리가 일반 브라우저 요청처럼 인식하도록 설정
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          accept_header: "*/*"
+
+          # 최신 글 5개 표시
+          max_post_count: 5
+
+          # 글 제목과 작성일 표시
+          template: "$newline- [$title]($url) — $date"
+          date_format: "yyyy.mm.dd"
+
+          # 일시적인 요청 실패 시 재시도
+          retry_count: 3
+          retry_wait_time: 2
