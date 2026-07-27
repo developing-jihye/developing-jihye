@@ -114,11 +114,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[컴퓨터구조 21] 제어장치는 무엇을 할까?](https://developing-jihye.tistory.com/33) — 2026.07.24
-- [[컴퓨터구조 20] ALU는 무엇을 할까?](https://developing-jihye.tistory.com/32) — 2026.07.24
-- [[컴퓨터구조 19] 어셈블과 링킹](https://developing-jihye.tistory.com/30) — 2026.07.01
-- [[컴퓨터구조 18] 전처리와 컴파일](https://developing-jihye.tistory.com/29) — 2026.07.01
-- [[컴퓨터구조 17] C 소스 코드는 어떻게 실행 파일이 될까?](https://developing-jihye.tistory.com/28) — 2026.07.01<!-- BLOG-POST-LIST:END -->
+- [[Java 06] 2차원 배열과 가변 배열 이해하기](https://developing-jihye.tistory.com/45) — 2026.07.27
+- [[Java 05] 1차원 배열 생성과 초기화, 조회하는 방법](https://developing-jihye.tistory.com/44) — 2026.07.27
+- [[Java 04] printf 사용법과 출력 형식 지정하기](https://developing-jihye.tistory.com/43) — 2026.07.27
+- [[Java 03] 자동 형 변환과 강제 형 변환](https://developing-jihye.tistory.com/42) — 2026.07.27
+- [[Java 02] 값 비교하기: ==, equals&lpar;&rpar;, 삼항 연산자](https://developing-jihye.tistory.com/41) — 2026.07.27<!-- BLOG-POST-LIST:END -->
 
 ---
 
