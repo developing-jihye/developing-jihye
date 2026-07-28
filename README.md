@@ -114,11 +114,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Java 06] 2차원 배열과 가변 배열 이해하기](https://developing-jihye.tistory.com/45) — 2026.07.27
-- [[Java 05] 1차원 배열 생성과 초기화, 조회하는 방법](https://developing-jihye.tistory.com/44) — 2026.07.27
-- [[Java 04] printf 사용법과 출력 형식 지정하기](https://developing-jihye.tistory.com/43) — 2026.07.27
-- [[Java 03] 자동 형 변환과 강제 형 변환](https://developing-jihye.tistory.com/42) — 2026.07.27
-- [[Java 02] 값 비교하기: ==, equals&lpar;&rpar;, 삼항 연산자](https://developing-jihye.tistory.com/41) — 2026.07.27<!-- BLOG-POST-LIST:END -->
+- [[Java 14] 가변 인자 사용법과 오버로딩 시 주의점](https://developing-jihye.tistory.com/53) — 2026.07.28
+- [[Java 13] 메서드 오버로딩과 호출할 메서드가 결정되는 과정](https://developing-jihye.tistory.com/52) — 2026.07.28
+- [[Java 12] this&lpar;&rpar;로 생성자 연결하기와 Java 25 변경점](https://developing-jihye.tistory.com/51) — 2026.07.28
+- [[Java 11] 생성자 오버로딩과 this 키워드](https://developing-jihye.tistory.com/50) — 2026.07.28
+- [[Java 10] 생성자란? 생성자와 메서드 구분하기](https://developing-jihye.tistory.com/49) — 2026.07.28<!-- BLOG-POST-LIST:END -->
 
 ---
 
