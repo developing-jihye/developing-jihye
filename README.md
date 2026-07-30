@@ -114,11 +114,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Java 25] final 메서드와 final 클래스](https://developing-jihye.tistory.com/64) — 2026.07.28
-- [[Java 24] final 변수와 배열 참조 이해하기](https://developing-jihye.tistory.com/63) — 2026.07.28
-- [[Java 23] ==, equals&lpar;&rpar;, hashCode&lpar;&rpar;의 차이와 재정의 방법](https://developing-jihye.tistory.com/62) — 2026.07.28
-- [[Java 22] Object의 toString&lpar;&rpar;과 객체 출력 원리](https://developing-jihye.tistory.com/61) — 2026.07.28
-- [[Java 21] 메서드 오버라이딩의 조건과 실행 원리](https://developing-jihye.tistory.com/60) — 2026.07.28<!-- BLOG-POST-LIST:END -->
+- [[Java 33] 제한된 제네릭과 와일드카드 쉽게 이해하기](https://developing-jihye.tistory.com/72) — 2026.07.30
+- [[Java 32] 제네릭이란? 사용할 자료형 미리 정하기](https://developing-jihye.tistory.com/71) — 2026.07.30
+- [[Java 31] 인터페이스란? 기능의 약속 만들기](https://developing-jihye.tistory.com/70) — 2026.07.30
+- [[Java 30] 익명 클래스로 추상 메서드 바로 구현하기](https://developing-jihye.tistory.com/69) — 2026.07.30
+- [[Java 29] 추상 클래스와 추상 메서드로 다형성 구현하기](https://developing-jihye.tistory.com/68) — 2026.07.29<!-- BLOG-POST-LIST:END -->
 
 ---
 
