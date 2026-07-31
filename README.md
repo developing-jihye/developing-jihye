@@ -114,11 +114,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Java 33] 제한된 제네릭과 와일드카드 쉽게 이해하기](https://developing-jihye.tistory.com/72) — 2026.07.30
-- [[Java 32] 제네릭이란? 사용할 자료형 미리 정하기](https://developing-jihye.tistory.com/71) — 2026.07.30
-- [[Java 31] 인터페이스란? 기능의 약속 만들기](https://developing-jihye.tistory.com/70) — 2026.07.30
-- [[Java 30] 익명 클래스로 추상 메서드 바로 구현하기](https://developing-jihye.tistory.com/69) — 2026.07.30
-- [[Java 29] 추상 클래스와 추상 메서드로 다형성 구현하기](https://developing-jihye.tistory.com/68) — 2026.07.29<!-- BLOG-POST-LIST:END -->
+- [[Java 39] try-with-resources로 자원 자동 반납하기](https://developing-jihye.tistory.com/78) — 2026.07.31
+- [[Java 38] throw, throws와 사용자 정의 예외](https://developing-jihye.tistory.com/77) — 2026.07.31
+- [[Java 37] try-catch-finally와 실행 순서](https://developing-jihye.tistory.com/76) — 2026.07.31
+- [[Java 36] Comparable과 Comparator로 객체 정렬하기](https://developing-jihye.tistory.com/75) — 2026.07.31
+- [[Java 35] Set과 Map 쉽게 이해하기](https://developing-jihye.tistory.com/74) — 2026.07.30<!-- BLOG-POST-LIST:END -->
 
 ---
 
