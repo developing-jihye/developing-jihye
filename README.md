@@ -114,11 +114,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Java 42] 객체 직렬화와 ObjectStream 쉽게 이해하기](https://developing-jihye.tistory.com/81) — 2026.07.31
+- [[Java 41] 자바 파일 입출력과 보조 스트림 쉽게 이해하기](https://developing-jihye.tistory.com/80) — 2026.07.31
+- [[Java 40] File 클래스로 파일과 폴더 확인하기](https://developing-jihye.tistory.com/79) — 2026.07.31
 - [[Java 39] try-with-resources로 자원 자동 반납하기](https://developing-jihye.tistory.com/78) — 2026.07.31
-- [[Java 38] throw, throws와 사용자 정의 예외](https://developing-jihye.tistory.com/77) — 2026.07.31
-- [[Java 37] try-catch-finally와 실행 순서](https://developing-jihye.tistory.com/76) — 2026.07.31
-- [[Java 36] Comparable과 Comparator로 객체 정렬하기](https://developing-jihye.tistory.com/75) — 2026.07.31
-- [[Java 35] Set과 Map 쉽게 이해하기](https://developing-jihye.tistory.com/74) — 2026.07.30<!-- BLOG-POST-LIST:END -->
+- [[Java 38] throw, throws와 사용자 정의 예외](https://developing-jihye.tistory.com/77) — 2026.07.31<!-- BLOG-POST-LIST:END -->
 
 ---
 
