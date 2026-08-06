@@ -114,11 +114,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[컴퓨터구조 30] 스레드와 멀티스레드](https://developing-jihye.tistory.com/84) — 2026.08.05
+- [[컴퓨터구조 29] 코어와 멀티코어](https://developing-jihye.tistory.com/83) — 2026.08.05
+- [[컴퓨터구조 28] 클럭 속도와 CPU 성능](https://developing-jihye.tistory.com/82) — 2026.08.05
 - [[Java 42] 객체 직렬화와 ObjectStream 쉽게 이해하기](https://developing-jihye.tistory.com/81) — 2026.07.31
-- [[Java 41] 자바 파일 입출력과 보조 스트림 쉽게 이해하기](https://developing-jihye.tistory.com/80) — 2026.07.31
-- [[Java 40] File 클래스로 파일과 폴더 확인하기](https://developing-jihye.tistory.com/79) — 2026.07.31
-- [[Java 39] try-with-resources로 자원 자동 반납하기](https://developing-jihye.tistory.com/78) — 2026.07.31
-- [[Java 38] throw, throws와 사용자 정의 예외](https://developing-jihye.tistory.com/77) — 2026.07.31<!-- BLOG-POST-LIST:END -->
+- [[Java 41] 자바 파일 입출력과 보조 스트림 쉽게 이해하기](https://developing-jihye.tistory.com/80) — 2026.07.31<!-- BLOG-POST-LIST:END -->
 
 ---
 
