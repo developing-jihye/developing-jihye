@@ -13,7 +13,6 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=netlify&logoColor=white)](https://dev-jihye-portfolio.netlify.app/)
 [![Blog](https://img.shields.io/badge/Tistory-Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://developing-jihye.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-developing--jihye-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developing-jihye)
 
