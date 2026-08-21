@@ -113,11 +113,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Java 45] Reflection으로 필드 조회&amp;middot;수정하고 객체 생성하기](https://developing-jihye.tistory.com/87) — 2026.08.13
-- [[Java 44] Reflection으로 메서드 정보 조회하고 실행하기](https://developing-jihye.tistory.com/86) — 2026.08.13
-- [[Java 43] Reflection 기초: 실행 중 클래스 정보 알아내기](https://developing-jihye.tistory.com/85) — 2026.08.13
-- [[컴퓨터구조 30] 스레드와 멀티스레드](https://developing-jihye.tistory.com/84) — 2026.08.05
-- [[컴퓨터구조 29] 코어와 멀티코어](https://developing-jihye.tistory.com/83) — 2026.08.05<!-- BLOG-POST-LIST:END -->
+- [[Java 50] @Retention과 Reflection으로 어노테이션 읽기](https://developing-jihye.tistory.com/92) — 2026.08.20
+- [[Java 49] @Target으로 어노테이션 사용 위치 제한하기](https://developing-jihye.tistory.com/91) — 2026.08.20
+- [[Java 48] 어노테이션 속성의 default와 value 생략 규칙](https://developing-jihye.tistory.com/90) — 2026.08.20
+- [[Java 47] 어노테이션&lpar;Annotation&rpar;이란? 직접 만들고 사용하는 방법](https://developing-jihye.tistory.com/89) — 2026.08.20
+- [[Java 46] Reflection 활용: 문자열에 따라 메서드 실행하기](https://developing-jihye.tistory.com/88) — 2026.08.20<!-- BLOG-POST-LIST:END -->
 
 ---
 
