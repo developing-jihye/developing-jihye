@@ -113,11 +113,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Java 50] @Retention과 Reflection으로 어노테이션 읽기](https://developing-jihye.tistory.com/92) — 2026.08.20
-- [[Java 49] @Target으로 어노테이션 사용 위치 제한하기](https://developing-jihye.tistory.com/91) — 2026.08.20
-- [[Java 48] 어노테이션 속성의 default와 value 생략 규칙](https://developing-jihye.tistory.com/90) — 2026.08.20
-- [[Java 47] 어노테이션&lpar;Annotation&rpar;이란? 직접 만들고 사용하는 방법](https://developing-jihye.tistory.com/89) — 2026.08.20
-- [[Java 46] Reflection 활용: 문자열에 따라 메서드 실행하기](https://developing-jihye.tistory.com/88) — 2026.08.20<!-- BLOG-POST-LIST:END -->
+- [[Java 56] 스레드 우선순위와 데몬 스레드](https://developing-jihye.tistory.com/98) — 2026.08.27
+- [[Java 55] start&lpar;&rpar;, sleep&lpar;&rpar;, join&lpar;&rpar;, interrupt&lpar;&rpar;로 스레드 제어하기](https://developing-jihye.tistory.com/97) — 2026.08.27
+- [[Java 54] 스레드란? main 스레드와 스레드 생성 방법](https://developing-jihye.tistory.com/96) — 2026.08.27
+- [[Java 53] 자바 함수형 인터페이스: Consumer와 Supplier](https://developing-jihye.tistory.com/95) — 2026.08.27
+- [[Java 52] 람다식 활용: Runnable과 Map에 동작 저장하기](https://developing-jihye.tistory.com/94) — 2026.08.27<!-- BLOG-POST-LIST:END -->
 
 ---
 
