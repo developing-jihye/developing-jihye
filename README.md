@@ -113,11 +113,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [로컬에서는 되는데 특정 기능만 안 될 때: SSH 터널과 내부 서비스 연결 이해하기](https://developing-jihye.tistory.com/100) — 2026.09.11
 - [BFF란?](https://developing-jihye.tistory.com/99) — 2026.08.31
 - [[Java 56] 스레드 우선순위와 데몬 스레드](https://developing-jihye.tistory.com/98) — 2026.08.27
 - [[Java 55] start&lpar;&rpar;, sleep&lpar;&rpar;, join&lpar;&rpar;, interrupt&lpar;&rpar;로 스레드 제어하기](https://developing-jihye.tistory.com/97) — 2026.08.27
-- [[Java 54] 스레드란? main 스레드와 스레드 생성 방법](https://developing-jihye.tistory.com/96) — 2026.08.27
-- [[Java 53] 자바 함수형 인터페이스: Consumer와 Supplier](https://developing-jihye.tistory.com/95) — 2026.08.27<!-- BLOG-POST-LIST:END -->
+- [[Java 54] 스레드란? main 스레드와 스레드 생성 방법](https://developing-jihye.tistory.com/96) — 2026.08.27<!-- BLOG-POST-LIST:END -->
 
 ---
 
