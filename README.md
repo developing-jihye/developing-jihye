@@ -113,11 +113,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [데이터가 바뀌었는지 빠르게 알아내는 방법: Fingerprint Hash 쉽게 이해하기](https://developing-jihye.tistory.com/104) — 2026.09.18
 - [Candidate 테스트 환경과 Git 배포 흐름 이해하기](https://developing-jihye.tistory.com/103) — 2026.09.11
 - [SSH 터널과 localhost 쉽게 이해하기](https://developing-jihye.tistory.com/102) — 2026.09.11
 - [SSH로 원격 서버에 접속한다는 것은 무엇일까?](https://developing-jihye.tistory.com/101) — 2026.09.11
-- [로컬에서는 되는데 특정 기능만 안 될 때: SSH 터널과 내부 서비스 연결 이해하기](https://developing-jihye.tistory.com/100) — 2026.09.11
-- [BFF란?](https://developing-jihye.tistory.com/99) — 2026.08.31<!-- BLOG-POST-LIST:END -->
+- [로컬에서는 되는데 특정 기능만 안 될 때: SSH 터널과 내부 서비스 연결 이해하기](https://developing-jihye.tistory.com/100) — 2026.09.11<!-- BLOG-POST-LIST:END -->
 
 ---
 
