@@ -113,11 +113,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Argon2id란? 초보자를 위한 비밀번호 해싱과 보안 원리](https://developing-jihye.tistory.com/105) — 2026.10.01
 - [데이터가 바뀌었는지 빠르게 알아내는 방법: Fingerprint Hash 쉽게 이해하기](https://developing-jihye.tistory.com/104) — 2026.09.18
 - [Candidate 테스트 환경과 Git 배포 흐름 이해하기](https://developing-jihye.tistory.com/103) — 2026.09.11
 - [SSH 터널과 localhost 쉽게 이해하기](https://developing-jihye.tistory.com/102) — 2026.09.11
-- [SSH로 원격 서버에 접속한다는 것은 무엇일까?](https://developing-jihye.tistory.com/101) — 2026.09.11
-- [로컬에서는 되는데 특정 기능만 안 될 때: SSH 터널과 내부 서비스 연결 이해하기](https://developing-jihye.tistory.com/100) — 2026.09.11<!-- BLOG-POST-LIST:END -->
+- [SSH로 원격 서버에 접속한다는 것은 무엇일까?](https://developing-jihye.tistory.com/101) — 2026.09.11<!-- BLOG-POST-LIST:END -->
 
 ---
 
