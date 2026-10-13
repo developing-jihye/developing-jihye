@@ -113,11 +113,11 @@ API Design · Data Flow · Documentation · Operational Stability
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ란 무엇일까? 요청과 작업 사이에 놓인 &amp;lsquo;메시지 물류센터&amp;rsquo;](https://developing-jihye.tistory.com/106) — 2026.10.12
 - [Argon2id란? 초보자를 위한 비밀번호 해싱과 보안 원리](https://developing-jihye.tistory.com/105) — 2026.10.01
 - [데이터가 바뀌었는지 빠르게 알아내는 방법: Fingerprint Hash 쉽게 이해하기](https://developing-jihye.tistory.com/104) — 2026.09.18
 - [Candidate 테스트 환경과 Git 배포 흐름 이해하기](https://developing-jihye.tistory.com/103) — 2026.09.11
-- [SSH 터널과 localhost 쉽게 이해하기](https://developing-jihye.tistory.com/102) — 2026.09.11
-- [SSH로 원격 서버에 접속한다는 것은 무엇일까?](https://developing-jihye.tistory.com/101) — 2026.09.11<!-- BLOG-POST-LIST:END -->
+- [SSH 터널과 localhost 쉽게 이해하기](https://developing-jihye.tistory.com/102) — 2026.09.11<!-- BLOG-POST-LIST:END -->
 
 ---
 
